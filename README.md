@@ -24,7 +24,7 @@ Tic-Tac-Toe is a grid-based game implemented in C, offering two modes of gamepla
 1. Clone the repository:
 
      ```bash
-     git clone https://github.com/<your-username>/Tic-Tac-Toe-Game.git
+     git clone https://github.com/faij1207/Tic-Tac-Toe-Game.git
      ```
 
 2. Compile the code:
